@@ -25,7 +25,7 @@ A relational database system designed for an online pet supply store. Built in O
 
 ## 📊 ERD
 
-![PetsPros ERD](./petspros_erd.png)
+![PetsPros ERD](./PetsPros_ERD.png)
 
 ## 🤩 Instagram
 
