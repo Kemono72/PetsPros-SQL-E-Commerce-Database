@@ -13,7 +13,7 @@ A relational database system designed for an online pet supply store. Built in O
 
 Here’s a look at the live Shopify performance for PetsPros during a peak operational period:
 
-![Analytics Dashboard](sql_scripts/media/PetsPros_analytics.png)
+![Analytics Dashboard](media/PetsPros_analytics.png)
 
 - 1,200+ sessions across 5 countries 🌎
 - Top locations: 🇺🇸 United States, 🇨🇦 Canada, 🇸🇬 Singapore
