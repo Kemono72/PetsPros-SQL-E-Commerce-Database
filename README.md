@@ -9,6 +9,19 @@ A relational database system designed for an online pet supply store. Built in O
 - Inventory management with automated stock updates
 - Sample queries for data insights
 
+## 📊 Analytics Snapshot (June–July 2024)
+
+Here’s a look at the live Shopify performance for PetsPros during a peak operational period:
+
+![Analytics Dashboard](sql_scripts/media/PetsPros_analytics.png)
+
+- 1,200+ sessions across 5 countries 🌎
+- Top locations: 🇺🇸 United States, 🇨🇦 Canada, 🇸🇬 Singapore
+- 2.25% Conversion rate
+- Most users accessed via **mobile**
+
+> Data reflects activity between June 3 – July 30, 2024.
+
 ## 🧩 Tables Included
 
 - `Customers`
